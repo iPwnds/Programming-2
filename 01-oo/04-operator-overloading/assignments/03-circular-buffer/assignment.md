@@ -23,7 +23,7 @@ An example will make this clearer:
 'a'
 >>> buffer[1]
 'b'
->>> buffer[3]
+>>> buffer[2]
 'c'
 
 # Now watch what happens when we add a fourth element!
