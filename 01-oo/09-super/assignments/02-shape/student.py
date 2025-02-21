@@ -6,11 +6,16 @@ class Shape(ABC):
     @property
     @abstractmethod
     def area(self):
+<<<<<<< HEAD
         pass
+=======
+        ...
+>>>>>>> 4b673df (completing part 08 (overriding))
 
     @property
     @abstractmethod
     def perimeter(self):
+<<<<<<< HEAD
         pass
 
 class Rectangle(Shape):
@@ -74,3 +79,6 @@ class Circle(Ellipse):
     @property
     def perimeter(self):
         return 2 * self.radius * pi
+=======
+        ...
+>>>>>>> 4b673df (completing part 08 (overriding))
