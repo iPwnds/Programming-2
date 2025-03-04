@@ -45,7 +45,6 @@ import random
 
 def test_bubble_sort():
     for size in [1000, 10000]:
-        start_time = time()
         random_list = random.choices(range(0, 1000), k=size)
 
         print(f"Testing performance for list size: {size}")
@@ -100,7 +99,6 @@ import random
 
 def test_python_sort():
     for size in [1000, 10000]:
-        start_time = time()
         random_list = random.choices(range(0, 1000), k=size)
 
         print(f"Testing performance for list size: {size}")
