@@ -50,7 +50,7 @@ def test_bubble_sort():
 
         print(f"Testing performance for list size: {size}")
         start_time = time.time()
-        bubble_sort(random_lists[size])
+        bubble_sort(random_list)
         end_time = time.time()
         print(f"Sorting completed in {end_time - start_time} seconds.")
         print()
@@ -105,7 +105,7 @@ def test_python_sort():
 
         print(f"Testing performance for list size: {size}")
         start_time = time.time()
-        sorted(random_lists[size])  # <---- this is the only line that is different
+        sorted(random_list)  # <---- this is the only line that is different
         end_time = time.time()
         print(f"Sorting completed in {end_time - start_time} seconds.")
         print()
@@ -163,7 +163,7 @@ currently looks like this:
 def test_bubble_sort():
     for size in [1000, 10000]:
         # some code
-        bubble_sort(random_lists[size])
+        bubble_sort(random_list)
         # some more code
 ```
 As you can see, the sorting function we are testing is currently hardcoded into the body of the function, just like the
@@ -176,7 +176,7 @@ def test_bubble_sort():
     sorting_function = bubble_sort
     for size in [1000, 10000]:
         # some code
-        sorting_function(random_lists[size])
+        sorting_function(random_list)
         # some more code
 ```
 And if we can assign this function to a variable, we can turn it into a function argument too:
@@ -184,7 +184,7 @@ And if we can assign this function to a variable, we can turn it into a function
 def test_bubble_sort(sorting_function):
     for size in [1000, 10000]:
         # some code
-        sorting_function(random_lists[size])
+        sorting_function(random_list)
         # some more code
 ```
 And voila! Just like this we wrote a performance testing function that can test the performance of any sorting function!
@@ -193,7 +193,7 @@ This deserves a renaming! Instead of naming it `test_bubble_sort`, we'll call it
 def test_sort(sorting_function):
     for size in [1000, 10000]:
         # some code
-        sorting_function(random_lists[size])
+        sorting_function(random_list)
         # some more code
 ```
 and we can test any sorting function like so:
