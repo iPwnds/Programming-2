@@ -18,5 +18,5 @@ def fizzbuzz():
 
 def test_fizzbuzz():
     expected = islice(fizzbuzz(), 1000)
-    actual = islice(fizzbuzz(), 1000)
+    actual = islice(student.fizzbuzz(), 1000)
     assert list(expected) == list(actual)
