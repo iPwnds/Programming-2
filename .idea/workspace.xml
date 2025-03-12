@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8625562c-f03d-46a3-9e6a-68e26b4bee52" name="Changes" comment="02 -&gt; 01 -&gt; 10 + 11 Complete, to be reviewed + 09 &amp; 07" />
+    <list default="true" id="8625562c-f03d-46a3-9e6a-68e26b4bee52" name="Changes" comment="02 -&gt; 01 -&gt; 10 + 11 Complete, to be reviewed + 09 &amp; 07">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/04-sorting/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/04-sorting/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/06-min-max/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/06-min-max/student.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/florianbraun/Documents/UCLL/Year 1, Semester 2/Programming 2/P2-coursematerial-2425",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -44,25 +49,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.pytest in tests.py (5)">
-    <configuration name="pytest in tests.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="P2-coursematerial-2425" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/09-take-while" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/09-take-while/tests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in tests.py (3)">
     <configuration name="pytest in tests.py (2)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="P2-coursematerial-2425" />
       <option name="ENV_FILES" value="" />
@@ -87,7 +74,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/07-find" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/06-min-max" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -95,7 +82,25 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/07-find/tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/06-min-max/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests.py (4)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="P2-coursematerial-2425" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/04-sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/04-sorting/tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -137,19 +142,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests.py (3)" />
+        <item itemvalue="Python tests.pytest in tests.py (4)" />
         <item itemvalue="Python tests.pytest in tests.py (5)" />
         <item itemvalue="Python tests.pytest in tests.py (2)" />
         <item itemvalue="Python tests.pytest in tests.py" />
-        <item itemvalue="Python tests.pytest in tests.py (1)" />
-        <item itemvalue="Python tests.pytest in tests.py (3)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -166,6 +171,7 @@
       <workItem from="1740139802499" duration="4408000" />
       <workItem from="1741003765024" duration="18950000" />
       <workItem from="1741609471125" duration="978000" />
+      <workItem from="1741624152758" duration="9876000" />
     </task>
     <task id="LOCAL-00001" summary="Final assignment for part 03">
       <option name="closed" value="true" />
@@ -285,12 +291,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="02 -&gt; 01 -&gt; 10 + 11 Complete, to be reviewed + 09 &amp; 07" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__5_.coverage" NAME="pytest in tests.py (5) Coverage Results" MODIFIED="1741610032084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/02-nested-functions/assignments/02-nested-functions" />
-    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__1_.coverage" NAME="pytest in tests.py (1) Coverage Results" MODIFIED="1741008568148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/09-take-while" />
-    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__4_.coverage" NAME="pytest in tests.py (4) Coverage Results" MODIFIED="1741005420430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/05-group-by" />
     <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__2_.coverage" NAME="pytest in tests.py (2) Coverage Results" MODIFIED="1741372839630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/11-merge-dictionaries" />
-    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1741008940742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/10-indices-of" />
     <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__3_.coverage" NAME="pytest in tests.py (3) Coverage Results" MODIFIED="1741006871400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/07-find" />
+    <SUITE FILE_PATH="coverage/Programming_2$pytest_in_tests_py__4_.coverage" NAME="pytest in tests.py (4) Coverage Results" MODIFIED="1741812932957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/03-lambdas/assignments/04-sorting" />
     <SUITE FILE_PATH="coverage/P2_coursematerial_2425$student.coverage" NAME="student Coverage Results" MODIFIED="1741005189438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/05-group-by" />
+    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1741008940742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/10-indices-of" />
+    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__5_.coverage" NAME="pytest in tests.py (5) Coverage Results" MODIFIED="1741610032084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/02-nested-functions/assignments/02-nested-functions" />
+    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__4_.coverage" NAME="pytest in tests.py (4) Coverage Results" MODIFIED="1741005420430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/05-group-by" />
+    <SUITE FILE_PATH="coverage/P2_coursematerial_2425$pytest_in_tests_py__1_.coverage" NAME="pytest in tests.py (1) Coverage Results" MODIFIED="1741008568148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-functional-programming/01-higher-order-functions/assignments/09-take-while" />
   </component>
 </project>
