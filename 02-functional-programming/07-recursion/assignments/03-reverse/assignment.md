@@ -1,4 +1,4 @@
-# Sum Numbers
+# Reverse
 
 Write two recursive functions reverse_from_left(text) and reverse_from_right(text). Output is a string where all characters of ´text´ appear in reverse order.
 
