@@ -20,57 +20,22 @@ def draw_line(tur, pos1, pos2):
     tur.goto(pos2[0], pos2[1])
     
     
+def draw_line_in_angle(tur, length, angle):
+    tur.setheading(angle)
+    tur.forward(length)
+    x, y = tur.position()
+    tur.backward(length)  # Move back
+    return (x, y)
+    
 # tur = the instance of a turtle object, we need to pass this to the draw_line function to draw lines.
 # x = the X-coordinate to start drawing from
 # y = the Y-coordinate to start drawing from
-# width = the width of the space we draw the next drawing in
-# height = the height of the space we draw the next drawing in
+# length = The length of the current branch.
+# angle = The angle between branches.
 # count = the depth of the recursive element at this point.
 def recursive_draw(tur, x, y, length, angle, count):
-    """
-    Draws a Y-shaped fractal recursively.
-    
-    Parameters:
-    - tur: The turtle instance for drawing.
-    - x, y: Starting position for the current branch.
-    - length: The length of the current branch.
-    - angle: The angle between branches.
-    - count: The recursion depth.
-    """
-    if count == 0:
-        return  # Base case: stop when depth is 0
-
-    # Move to starting position
-    tur.penup()
-    tur.goto(x, y)
-    tur.pendown()
-    
-    # Draw trunk
-    tur.setheading(angle)  # Point upwards
-    tur.forward(length)
-
-    # Get the endpoint of the trunk
-    new_x, new_y = tur.position()
-
-    # Compute new branch length
-    new_length = length * 0.6  # Reduce size at each step
-
-    # Draw left branch
-    tur.setheading(angle+30)
-    tur.forward(new_length)
-    left_x, left_y = tur.position()
-    tur.backward(new_length)  # Move back
-
-    # Draw right branch
-    tur.setheading(angle-30)
-    tur.forward(new_length)
-    right_x, right_y = tur.position()
-    tur.backward(new_length)  # Move back
-
-    # Recursive calls for the left and right branches
-    recursive_draw(tur, left_x, left_y, new_length, angle+30, count - 1)
-    recursive_draw(tur, right_x, right_y, new_length, angle-30, count - 1)
-
+    # TODO: implement so a Y-tree is drawn
+    pass
 
 
 if __name__ == "__main__":
