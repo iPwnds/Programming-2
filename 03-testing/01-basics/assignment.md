@@ -251,6 +251,3 @@ Your task is
   If not, go back to fixing `overlapping_intervals`.
 * Run our tests by using `pytest -x verify.py`.
   If these don't all pass, go back to step 1.
-
-> You should always commit all files you were tasked to update.
-> In the past, this was limited to `student.py`, but now you should add `intervals.py` and `tests.py`.
