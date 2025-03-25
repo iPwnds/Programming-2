@@ -207,7 +207,7 @@ We'll discuss more of its capabilities as we progress.
 Say we need to write a function `overlapping_intervals(interval1, interval2)` that checks whether the given intervals overlap.
 We represent intervals using pairs.
 The interval represented by the tuple `(left, right)` contains all values `x` for which `left <= x <= right`.
-For example, the intervals `(2, 5)` and `(3, 8)` do overlap: they have `2` and `3` in common.
+For example, the intervals `(2, 5)` and `(3, 8)` do overlap: they have `3` and `4` and `5` in common.
 Conversely, `(0, 4)` and `(6, 9)` do not overlap.
 Note that `(0, 4)` and `(4, 0)` do not overlap: the second interval is empty since there exist no `x` for which `4 <= x <= 0`.
 
