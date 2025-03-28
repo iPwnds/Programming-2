@@ -60,8 +60,8 @@ Example usage:
 >>> len(tasks)
 0
 
->>> tomorrow = date.today + timedelta(days=1)
->>> yesterday = date.today - timedelta(days=1)
+>>> tomorrow = date.today() + timedelta(days=1)
+>>> yesterday = date.today() - timedelta(days=1)
 
 # Adding task with due_date in past is forbidden
 >>> task_in_past = Task('some description', yesterday)
