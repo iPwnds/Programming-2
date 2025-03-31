@@ -2,6 +2,10 @@
 def closest(points, target_points):
     return min(points, key=lambda point: ((point[0] - target_points[0]) ** 2) + ((point[1] - target_points[1]) ** 2))
 =======
+<<<<<<< HEAD
+def closest(points, target_points):
+    return min(points, key=lambda point: ((point[0] - target_points[0]) ** 2) + ((point[1] - target_points[1]) ** 2))
+=======
 def closest(points, target_point):
     
     def distance(p1, p2):
@@ -18,3 +22,4 @@ def closest(points, target_point):
 
     return closest_point
 >>>>>>> 4c5538f (lambdas done)
+>>>>>>> ed8a254985fdbea0724333353397ffdce5e6b793
