@@ -10,7 +10,7 @@ import student
     ('1451', True),
     ('645040', True),
     ('1 2 3', True),
-    ('64x65p1416', True),
+    ('64x65p1', True),
     ('abc', False)
 ])
 def test_function(string, expected):
