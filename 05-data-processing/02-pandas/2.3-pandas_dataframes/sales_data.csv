@@ -1,0 +1,101 @@
+Index,Product ID,Product Name,Category,Price,Quantity Sold,Brand,Release Year,Ratings
+1,153,Microwave,Office Supplies,286.26,12,Philips,2015,3.5
+2,114,Smart Light,Wearable,248.16,177,Samsung,2016,3.7
+3,286,USB Flash Drive,Audio,1012.2,117,HP,2020,3.9
+4,128,External Hard Drive,Wearable,839.11,40,JBL,2017,3.5
+5,126,Monitor,Electronics,737.47,372,Apple,2023,4.8
+6,283,Portable Speaker,Networking,623.81,31,HP,2016,4.0
+7,282,Cooling Pad,Storage,1095.42,492,TP-Link,2022,3.5
+8,112,Microphone,Photography,98.45,332,Blue Yeti,2019,4.4
+9,172,Bluetooth Adapter,Electronics,325.85,171,Cuisinart,2016,3.7
+10,213,Drawing Tablet,Office Supplies,490.56,338,Microsoft,2015,4.4
+11,270,Microwave,Storage,1036.11,150,Nikon,2019,4.5
+12,106,Drawing Tablet,Wearable,234.88,214,TP-Link,2017,4.2
+13,122,Microphone,Office Supplies,688.68,362,TP-Link,2021,4.3
+14,174,Portable Speaker,Home Appliances,1234.33,289,Blue Yeti,2017,4.7
+15,160,Air Purifier,Accessories,719.11,465,LG,2017,nan
+16,109,Smart Light,Gaming,1062.43,436,Logitech,2023,nan
+17,193,Oven,Networking,1081.64,141,TP-Link,2016,4.2
+18,279,Smart Refrigerator,Photography,957.41,270,LG,2020,nan
+19,134,USB Flash Drive,Office Supplies,540.78,456,Xbox,2021,4.4
+20,175,Microphone,Networking,1207.45,344,HP,2021,3.6
+21,129,Gaming Console,Photography,209.78,241,Bose,2021,nan
+22,297,Wireless Charger,Accessories,848.71,80,Samsung,2017,4.5
+23,227,Toaster,Gaming,1436.18,98,Cuisinart,2017,4.3
+24,138,Drawing Tablet,Smart Home,159.28,321,Ring,2021,4.6
+25,134,Webcam,Networking,1137.86,106,Apple,2020,3.7
+26,185,Motherboard,Photography,744.98,247,Breville,2022,3.6
+27,110,Tripod,Storage,1288.45,140,Philips,2018,nan
+28,193,RAM,Wearable,608.9,106,Blue Yeti,2019,3.9
+29,252,VR Headset,Smart Home,524.19,293,Dyson,2021,4.3
+30,131,Processor,Photography,112.2,466,Keurig,2017,nan
+31,254,Oven,Networking,573.82,368,Ring,2018,4.2
+32,115,Smart Refrigerator,Gaming,169.8,411,Breville,2019,4.3
+33,225,Smart Refrigerator,Electronics,1452.67,391,JBL,2017,4.2
+34,102,Bluetooth Adapter,Accessories,828.72,160,Apple,2019,4.6
+35,120,Smart Light,Audio,918.73,371,Seagate,2017,nan
+36,271,Game Controller,Audio,842.4,401,Dyson,2018,3.9
+37,108,Monitor,Wearable,1050.3,248,Cuisinart,2018,4.4
+38,245,Smart Refrigerator,Office Supplies,530.48,277,Canon,2018,4.8
+39,172,Wireless Charger,Electronics,1262.85,228,Garmin,2020,4.9
+40,242,Smart Light,Office Supplies,1447.61,201,Nikon,2016,4.8
+41,223,Air Purifier,Accessories,1294.8,55,Fitbit,2017,4.1
+42,204,Washing Machine,Accessories,806.92,247,Wacom,2023,nan
+43,168,Smartwatch,Audio,756.07,426,Bose,2023,nan
+44,270,VR Headset,Wearable,1365.1,243,Microsoft,2015,3.9
+45,147,Mouse,Accessories,1139.64,108,DJI,2018,4.2
+46,252,Smart TV,Home Appliances,1295.23,16,Blue Yeti,2023,4.1
+47,154,Cooling Pad,Photography,64.62,131,Keurig,2016,nan
+48,133,Toaster,Office Supplies,1035.5,319,Seagate,2021,3.5
+49,296,Fitness Band,Smart Home,952.35,287,Dyson,2023,4.0
+50,220,Coffee Maker,Electronics,1294.88,441,Breville,2022,4.2
+51,105,External Hard Drive,Photography,1174.62,486,Bose,2016,nan
+52,205,Camera,Electronics,324.52,31,TP-Link,2016,3.9
+53,285,RAM,Accessories,712.03,170,TP-Link,2016,4.2
+54,132,USB Flash Drive,Audio,562.55,75,Ninja,2022,4.9
+55,217,USB Flash Drive,Office Supplies,906.87,443,Logitech,2017,3.7
+56,227,Tripod,Accessories,800.72,118,Fitbit,2017,4.6
+57,158,Monitor,Photography,825.27,331,Amazon,2019,4.4
+58,155,Camera,Smart Home,359.61,312,Philips,2016,3.6
+59,296,USB Flash Drive,Office Supplies,248.98,347,iRobot,2023,3.8
+60,251,RAM,Smart Home,179.92,326,Ninja,2017,4.6
+61,255,Gaming Console,Accessories,93.92,439,Seagate,2017,4.4
+62,140,Smart Doorbell,Storage,1386.46,170,Breville,2019,4.4
+63,193,Robot Vacuum,Storage,845.99,343,Fitbit,2021,4.7
+64,152,RAM,Smart Home,454.51,162,TP-Link,2015,4.0
+65,168,Router,Photography,1032.09,258,Samsung,2022,3.6
+66,153,Router,Storage,1417.61,149,DJI,2016,4.7
+67,204,VR Headset,Home Appliances,1346.66,448,Logitech,2015,4.9
+68,214,Laptop,Gaming,535.13,232,Seagate,2018,4.9
+69,113,Air Purifier,Storage,363.2,459,iRobot,2018,3.7
+70,164,Blender,Gaming,169.92,488,Garmin,2023,4.6
+71,181,Electric Kettle,Photography,502.38,33,Cuisinart,2022,3.7
+72,299,Smart Doorbell,Smart Home,976.03,169,Dell,2023,4.5
+73,154,Smartphone,Wearable,1383.74,302,Canon,2023,4.6
+74,246,Camera,Accessories,1138.7,452,HP,2016,nan
+75,116,Smartwatch,Wearable,235.17,477,Ring,2022,3.7
+76,125,Webcam,Networking,730.56,151,Sony,2022,4.1
+77,232,Toaster,Office Supplies,1395.42,318,TP-Link,2022,4.4
+78,151,Speaker,Networking,572.21,265,iRobot,2020,3.7
+79,103,Drawing Tablet,Smart Home,1017.76,302,Ninja,2022,4.2
+80,228,Mouse,Home Appliances,495.38,371,Philips,2017,4.0
+81,238,Smartphone,Home Appliances,373.21,497,Sony,2018,3.7
+82,258,Portable Speaker,Electronics,1208.11,100,DJI,2022,4.5
+83,155,Blender,Photography,880.46,98,Cuisinart,2015,nan
+84,168,External Hard Drive,Storage,1214.22,63,Nikon,2021,4.6
+85,163,Processor,Accessories,978.74,444,Samsung,2017,3.6
+86,120,Cooling Pad,Storage,982.38,294,Apple,2022,4.4
+87,111,External Hard Drive,Wearable,108.41,442,LG,2022,3.6
+88,274,Wireless Charger,Networking,891.16,348,Sony,2020,4.1
+89,119,Smart Doorbell,Networking,1217.54,372,Breville,2023,4.5
+90,296,Robot Vacuum,Networking,942.54,147,Fitbit,2018,4.9
+91,275,Toaster,Photography,828.41,414,Seagate,2015,4.1
+92,265,Washing Machine,Smart Home,393.16,357,Bose,2017,4.5
+93,266,E-Reader,Photography,266.87,453,Apple,2019,4.9
+94,196,Keyboard,Wearable,1382.49,349,Cuisinart,2015,4.4
+95,250,Smart Doorbell,Wearable,265.96,118,Samsung,2019,4.3
+96,138,Monitor,Accessories,1439.31,386,Apple,2022,3.9
+97,299,Game Controller,Electronics,737.15,289,Dyson,2016,5.0
+98,252,Smart Refrigerator,Electronics,1369.96,360,iRobot,2017,4.9
+99,104,Blender,Audio,1423.44,51,Apple,2022,4.0
+100,181,Electric Kettle,Photography,517.22,148,Sony,2015,nan

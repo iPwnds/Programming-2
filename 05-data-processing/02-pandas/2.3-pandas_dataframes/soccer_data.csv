@@ -1,0 +1,61 @@
+Index,Player Name,Position,Club,Player Number,Goals Scored,Assists,Age,Nationality
+1,Lionel Messi,Forward,Inter Miami,10,30,12,36,Argentina
+2,Cristiano Ronaldo,Forward,Al Nassr,7,25,10,39,Portugal
+3,Neymar Jr,Forward,Al Hilal,11,20,18,32,Brazil
+4,Kylian Mbappe,Forward,PSG,9,35,15,25,France
+5,Kevin De Bruyne,Midfielder,Manchester City,17,15,20,32,Belgium
+6,Mohamed Salah,Forward,Liverpool,11,28,14,31,Egypt
+7,Robert Lewandowski,Forward,Barcelona,9,33,9,35,Poland
+8,Karim Benzema,Forward,Real Madrid,19,27,11,36,France
+9,Luka Modric,Midfielder,Real Madrid,10,10,22,38,Croatia
+10,Erling Haaland,Forward,Manchester City,9,40,8,23,Norway
+11,Harry Kane,Forward,Bayern Munich,9,32,11,30,England
+12,Bruno Fernandes,Midfielder,Manchester United,8,12,18,29,Portugal
+13,Vinicius Jr,Forward,Real Madrid,7,22,16,23,Brazil
+14,Antoine Griezmann,Forward,Atletico Madrid,7,18,10,32,France
+15,Pedri,Midfielder,Barcelona,8,6,14,21,Spain
+16,Rafael Leao,Forward,AC Milan,17,15,13,24,Portugal
+17,Lautaro Martinez,Forward,Inter Milan,10,26,9,26,Argentina
+18,Bernardo Silva,Midfielder,Manchester City,20,9,17,29,Portugal
+19,Joshua Kimmich,Midfielder,Bayern Munich,6,4,22,29,Germany
+20,Riyad Mahrez,Forward,Al Ahli,26,20,12,32,Algeria
+21,Heung-Min Son,Forward,Tottenham Hotspur,7,18,14,31,South Korea
+22,Joao Felix,Forward,Barcelona,17,14,12,24,Portugal
+23,Jude Bellingham,Midfielder,Real Madrid,5,8,13,20,England
+24,Rodri,Midfielder,Manchester City,16,6,18,27,Spain
+25,Marcus Rashford,Forward,Manchester United,10,19,9,26,England
+26,Casemiro,Midfielder,Manchester United,18,5,16,32,Brazil
+27,Andrew Robertson,Defender,Liverpool,26,3,12,30,Scotland
+28,Trent Alexander-Arnold,Defender,Liverpool,66,2,19,25,England
+29,Ruben Dias,Defender,Manchester City,3,1,8,27,Portugal
+30,Virgil van Dijk,Defender,Liverpool,4,2,7,32,Netherlands
+31,Alphonso Davies,Defender,Bayern Munich,19,3,11,23,Canada
+32,Declan Rice,Midfielder,Arsenal,41,4,10,25,England
+33,Paulo Dybala,Forward,Roma,21,14,9,30,Argentina
+34,Victor Osimhen,Forward,Napoli,9,25,7,25,Nigeria
+35,Nicolo Barella,Midfielder,Inter Milan,23,5,12,27,Italy
+36,Mason Mount,Midfielder,Manchester United,19,7,10,25,England
+37,Jack Grealish,Midfielder,Manchester City,10,6,15,28,England
+38,Bruno Guimaraes,Midfielder,Newcastle United,39,5,13,26,Brazil
+39,Ederson,Goalkeeper,Manchester City,31,0,1,30,Brazil
+40,Alisson Becker,Goalkeeper,Liverpool,1,0,2,31,Brazil
+41,Gianluigi Donnarumma,Goalkeeper,PSG,99,0,0,25,Italy
+42,Jan Oblak,Goalkeeper,Atletico Madrid,13,0,0,31,Slovenia
+43,Thibaut Courtois,Goalkeeper,Real Madrid,1,0,1,31,Belgium
+44,Andre Onana,Goalkeeper,Manchester United,24,0,0,28,Cameroon
+45,Diogo Costa,Goalkeeper,Porto,99,0,1,24,Portugal
+46,Theo Hernandez,Defender,AC Milan,19,4,9,26,France
+47,Achraf Hakimi,Defender,PSG,2,5,11,25,Morocco
+48,Marquinhos,Defender,PSG,5,2,6,29,Brazil
+49,David Alaba,Defender,Real Madrid,4,3,8,31,Austria
+50,Eder Militao,Defender,Real Madrid,3,4,7,26,Brazil
+51,Bukayo Saka,Forward,Arsenal,7,16,14,22,England
+52,Martin Odegaard,Midfielder,Arsenal,8,10,13,25,Norway
+53,Phil Foden,Forward,Manchester City,47,14,10,23,England
+54,Randal Kolo Muani,Forward,PSG,23,12,11,25,France
+55,Federico Valverde,Midfielder,Real Madrid,15,8,9,25,Uruguay
+56,Raphael Varane,Defender,Manchester United,19,2,5,30,France
+57,Joao Cancelo,Defender,Barcelona,20,3,10,29,Portugal
+58,Reece James,Defender,Chelsea,24,2,8,24,England
+59,Ben Chilwell,Defender,Chelsea,21,2,7,27,England
+60,Gabriel Martinelli,Forward,Arsenal,11,13,10,22,Brazil
